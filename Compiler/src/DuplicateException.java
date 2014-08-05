@@ -1,1 +1,0 @@
-class DuplicateException extends Exception {}
